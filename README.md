@@ -29,6 +29,11 @@ Tools and Libraries Used
 - Matplotlib
 - Seaborn
 
+Dataset Information
+- Number of rows: 891
+- Number of columns: 12
+- Source: Kaggle / UCI / train.csv
+ 
 Steps Performed
 1. Data Loading
 2. Data Inspection
